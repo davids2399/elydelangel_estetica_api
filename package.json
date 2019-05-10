@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "typescript": "npm install -g typescript",
     "build": "tsc -w",
     "dev": "nodemon build/index.js"
   },
